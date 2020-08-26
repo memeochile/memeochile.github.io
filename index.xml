@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabricación Digital on Nicolás Espinosa</title>
+    <link>https://nespinosae.github.io/</link>
+    <description>Recent content in Fabricación Digital on Nicolás Espinosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="https://nespinosae.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuración</title>
+      <link>https://nespinosae.github.io/docs/configuracion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/configuracion/</guid>
+      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://nespinosae.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://nespinosae.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>1. DCW Chair</title>
+      <link>https://nespinosae.github.io/docs/dcw-chair/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/dcw-chair/</guid>
+      <description>En esta sección mostraré la historia y la planimetria de la silla creada por Charles y Ray Eames.
+ &amp;ldquo;Lo que funciona bien es mejor a lo que se ve bien, porque lo que funciona bien permanece en el tiempo&amp;rdquo; Ray eames</description>
+    </item>
+    
+    <item>
+      <title>2. Mecanizado CNC</title>
+      <link>https://nespinosae.github.io/docs/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/mecanizado-cnc/</guid>
+      <description>En esta sección de mecanizado CNC, explicaré cual es el funcionamiento de esta maquina, entregaré un link para descargar su manual de uso y finalmente mostraré un video paso a paso de como hacer que un objeto 3d (en este caso la silla Fresia) se pueda configurar en Fusion 360 para que luego sea cortada.</description>
+    </item>
+    
+    <item>
+      <title>3. Mecanizado 2.5D</title>
+      <link>https://nespinosae.github.io/docs/mecanizado-2.5d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/mecanizado-2.5d/</guid>
+      <description>En esta sección de moldeo y fundición, explicaré que es el mecanizado 2.5D y luego mediante la tecnica de desbaste mostraré paso a paso como aplicarla en el respaldo de la silla fresia.</description>
+    </item>
+    
+    <item>
+      <title>4. Bonus Mecanizado</title>
+      <link>https://nespinosae.github.io/docs/bonus-mecanizado/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/bonus-mecanizado/</guid>
+      <description>En contrucción
+[Volver Arriba]</description>
+    </item>
+    
+    <item>
+      <title>5. Bonus Grasshopper</title>
+      <link>https://nespinosae.github.io/docs/bonus-grasshopper/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/bonus-grasshopper/</guid>
+      <description>En esta sección de mecanizado de un modelo grasshopper creado en Rhinoceros 3d, explicaré que es grasshopper y luego explicaré paso a paso en un video como mecanizar este objeto en Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>6. Bonus Investigación de materiales</title>
+      <link>https://nespinosae.github.io/docs/bonus-materiales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/bonus-materiales/</guid>
+      <description>En esta sección mostraré los distintos tipos de materiales en base a cartón y papel reciclado. Entre los que encontramos mezclas muy eficientes, economicas y firmes como por ejemplo el papel maché.</description>
+    </item>
+    
+    <item>
+      <title>7. Macetero DIY</title>
+      <link>https://nespinosae.github.io/docs/macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/macetero/</guid>
+      <description>En esta sección mostraré como hacer un macetero DIY en base a los materiales reciclados presentados en la sección número 6. Para esto utilizaré cartón, papel y otros materiales encontrados en la casa.</description>
+    </item>
+    
+    <item>
+      <title>8. Prototipo macetero (grupal)</title>
+      <link>https://nespinosae.github.io/docs/prototipo-macetero-grupal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nespinosae.github.io/docs/prototipo-macetero-grupal/</guid>
+      <description>Investigación Materiales Tarek Nazal/Angeles Lira/Nicolás Espinosa
+Cuando queremos crear un jardín casero, es muy importante elegir un buen macetero adecuado para la planta que queremos tener, ya que cada especie crece de una manera diferente a las otras.</description>
+    </item>
+    
+  </channel>
+</rss>
