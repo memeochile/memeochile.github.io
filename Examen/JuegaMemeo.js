@@ -261,7 +261,7 @@ function init() {
 			patternUrl: "data/bienvenida.patt",
 	})
 	
-	let meme002 = new THREE.PlaneBufferGeometry(1,1.5,6,6);
+	let meme002 = new THREE.PlaneBufferGeometry(3,2.5,10,10);
 	let loader002 = new THREE.TextureLoader();
 	let texture002 = loader002.load('./images/2.png')
 	let material002 = new THREE.MeshBasicMaterial({map:texture002});
